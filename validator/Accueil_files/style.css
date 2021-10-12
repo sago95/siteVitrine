@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    height: 120px;
+    background-color: lemonchiffon;
+    box-shadow: 12px 12px 2px 1px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.lg {
+    height: 80%;
+    padding-left: 10%;
+}
+
+body {
+    background-image: url("images/bodybkg.jpg");
+}
+
+hr {
+    border: 5px solid black;
+    padding-right: 200px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.t1 {
+    font-size: 70px;
+    padding-left: 5px;
+    font-family: Georgia;
+    font-weight: bolder;
+}
+
+.t2 {
+    padding-left: 10%;
+    color: blue;
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+h3 {
+    padding-left: 5px;
+    background-color: lightblue;
+    height: 50px;
+    font-family: cursive;
+    opacity: 0.7;
+}
