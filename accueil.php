@@ -19,11 +19,10 @@ mysqli_close($conn);
 </head>
 <body>
   <header>
-    <h1 class="t1"><span>O</span><span style="color:orange">DK</span> |</h1>
-    <h1 class="t2">La semaine du numérique</h1>
-    <img src="images/mali.png" alt="mali" class="lg">
+  <img src="images/mali.png" alt="mali" class="lg">
+    <h1 class="t1"><span>O</span><span style="color:orange">DK</span></h1>
   </header><br><br>
-  <h3>Les personnages importants de l'histoire du numérique</h3>
+  <h3>Les personnages</h3>
   <hr><br><br>
   <div class="container-fluid">
     <div class="px-lg-5">
